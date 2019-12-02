@@ -1,1 +1,3 @@
 # Defenderz
+
+Download from 'Releases'.
